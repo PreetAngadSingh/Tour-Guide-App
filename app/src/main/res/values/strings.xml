@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Patiala Tour</string>
+    <string name="category_attractions">Attractions</string>
+    <string name="category_historical">Sites</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_shopping">Shopping</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="att1">Darshani Gate</string>
+    <string name="att2">Antique Museum</string>
+    <string name="att3">Dhillon\'s Fun World</string>
+    <string name="att4">Green View Aquarium</string>
+    <string name="att5">Deer Park</string>
+    <string name="att6">Baradari Gardens</string>
+    <string name="att7">Thapar University</string>
+    <string name="att8">NIS</string>
+    <string name="att_des1">It is one of the ten gates constructed by Maharaja Narendra Singh to fortify Patiala.</string>
+    <string name="att_des2">From bronze glasses to kettles, this museum houses the very varied and unique collection of the long lost era.</string>
+    <string name="att_des3">Amusement and water park. It has live wide variety of swings and waterfalls and good quality environment</string>
+    <string name="att_des4">Good range for fish aquarium, fishes. They have good knowledge about their work.</string>
+    <string name="att_des5"><![CDATA[Deer park is a good place to see & know about different animals & birds there]]></string>
+    <string name="att_des6">Oldest garden in the city, Baradari means it has twelve doors /entries. The garden plays live music. There are rides for children in the garden</string>
+    <string name="att_des7">It is one of best institution for engineering.The atmosphere inside the college is awesome. There are lots of places to hangout and enjoy.</string>
+    <string name="att_des8">Netaji Subhas National Institute of Sports(NIS) is the Best place in India for Athletic and for all sports</string>
+    <string name="his1">Qila Mubarak</string>
+    <string name="his2">Sheesh Mahal</string>
+    <string name="his3">Gurudwara Dukh Niwaran Sahib</string>
+    <string name="his4">Gurudwara Moti Bagh Sahib</string>
+    <string name="his5">Bahadurgarh Fort</string>
+    <string name="his6">Kali Mandir</string>
+    <string name="his_des1">Qila Mubarak is an ancient fortress of Sikh architecture.  Qila Mubarak complex is built in 10-acre (40,000 m2) ground in the heart of the city.</string>
+    <string name="his_des2">The mahal contains a large number of frescoes, most of which were made under His Highness Maharaja Narinder Singh. A lake in front of the palace adds to the beauty.</string>
+    <string name="his_des3">Shri Guru  Tegh Bahadur visited Lehal on 24 January 1672 and stayed under a banyan tree by the side of a pond. The sickness in the village subsided. The site where Guru Tegh Bahadur had sat came to be known as Dukh Nivaran</string>
+    <string name="his_des4">This holy place was build because here Shri Guru  Tegh Bahadur stayed for 3 Months</string>
+    <string name="his_des5">It covers an area of 2 km2. The fort is enclosed within two rounded walls and a moat. A sum of ten lakh rupees was spent on its construction. that time</string>
+    <string name="his_des6">It was built by the Maharaja of Patiala in 1936. Today, the temple is situated opposite the Baradari Gardens.</string>
+    <string name="res1">Sahni Dhaba</string>
+    <string name="res2">Gopal\'s</string>
+    <string name="res3">Aneja\'s</string>
+    <string name="res4">Boston Bites</string>
+    <string name="res5">Neemrana Hotel</string>
+    <string name="res6">Barbeque Nation</string>
+    <string name="res7">The Yellow Chilli</string>
+    <string name="res_des1">This place is very popular for it\'s Non-Vegetarian dishes and Butter Naan</string>
+    <string name="res_des2">The name is enough in the city. The best sweets are sold here. Quality of the food is very good and fresh.</string>
+    <string name="res_des3">Best dishes at a very decent prices and good quality Indian food, Bakery Items and Chinese Food.</string>
+    <string name="res_des4">A great place to hangout with family and friends great menu and great service.</string>
+    <string name="res_des5">This is the place where celebrities come over to stay in this Royal City. It was build in the 19th century and the quality is maintained since than.</string>
+    <string name="res_des6">Barbeque Nation is an Indian restaurant chain headquartered in Bengaluru. The branch in Patiala was opened in 2017.</string>
+    <string name="res_des7">Stylish chain restaurant serving Mughlai, Punjabi and dishes from India\'s Northwestern frontier.</string>
+    <string name="sho1">Adalat Bazar</string>
+    <string name="sho2">Dharampura Market</string>
+    <string name="sho3">Arna Barna Chowk</string>
+    <string name="sho4">Omaxe Mall</string>
+    <string name="sho5">Leela Bhawan</string>
+    <string name="sho_des1">The only market which have all shops related to clothes and other wearables</string>
+    <string name="sho_des2">The only market which have all shops related to shoes</string>
+    <string name="sho_des3">We can get all type of National and International Authors Books</string>
+    <string name="sho_des4">The only destination to do everything you want with food, playzone, shopping and cinema at a single place</string>
+    <string name="sho_des5">All kind of shops which includes Restraunts,Mobile Showrooms,Ielts Institute etc</string>
+
+</resources>

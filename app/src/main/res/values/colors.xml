@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tan_background">#FFF7DA</color>
+    <color name="attraction_color">#CE93D8</color>
+    <color name="historical_color">#B39DDB</color>
+    <color name="restaurant_color">#9FA8DA</color>
+    <color name="shopping_color">#2196F3</color>
+</resources>
